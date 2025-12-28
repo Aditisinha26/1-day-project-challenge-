@@ -1,4 +1,4 @@
-1-DAY PROJECT CHALLENGE🌷
+#1-DAY PROJECT CHALLENGE🌷
 this repository contains small creative projects that i build to learn and explore coding.
 # Tech Stack
   ✨ HTML
