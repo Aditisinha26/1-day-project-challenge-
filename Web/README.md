@@ -1,5 +1,5 @@
-#1-DAY PROJECT CHALLENGE🌷
-this repository contains small creative projects that i build to learn and explore coding.
+  #1-DAY PROJECT CHALLENGE🌷
+  this repository contains small creative projects that i build to learn and explore coding.
 # Tech Stack
   ✨ HTML
   ✨ CSS
@@ -11,3 +11,5 @@ this repository contains small creative projects that i build to learn and explo
 
   # Status
   learning & building daily hopefully !!
+
+  Add Web folder
